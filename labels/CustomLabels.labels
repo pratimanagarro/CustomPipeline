@@ -7,4 +7,11 @@
         <shortDescription>Company Name</shortDescription>
         <value>Nagarro.com</value>
     </labels>
+    <labels>
+        <fullName>aaMyCustomLabel</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>aaMyCustomLabel</shortDescription>
+        <value>Nagarro.com</value>
+    </labels>
 </CustomLabels>
